@@ -1,0 +1,11 @@
+/* Default Light Mode */
+body {
+    background-color: white;
+    color: black;
+}
+
+/* Dark Mode Styles */
+.dark {
+    background-color: #212121;
+    color: white;
+}
